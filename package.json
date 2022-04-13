@@ -1,0 +1,19 @@
+{
+  "name": "jwt_basics",
+  "version": "1.0.0",
+  "description": "A ExpressJS API utilizing JSON Web Tokens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Earth-Hominid/JWT_Basics.git"
+  },
+  "author": "Chris Doll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Earth-Hominid/JWT_Basics/issues"
+  },
+  "homepage": "https://github.com/Earth-Hominid/JWT_Basics#readme"
+}
