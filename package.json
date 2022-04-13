@@ -4,6 +4,7 @@
   "description": "A ExpressJS API utilizing JSON Web Tokens.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Earth-Hominid/JWT_Basics/issues"
   },
-  "homepage": "https://github.com/Earth-Hominid/JWT_Basics#readme"
+  "homepage": "https://github.com/Earth-Hominid/JWT_Basics#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.15"
+  }
 }
